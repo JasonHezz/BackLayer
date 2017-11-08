@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">BackLayerExample</string>
+  <string name="design_backlayer_content_layer_text">Content Layer</string>
+</resources>
